@@ -1,8 +1,7 @@
 {
-  "name": "TAI",
+  "name": "TAI Jetton",
   "description": "TAI description",
-  "image": "https://byton-io.github.io/website/logo.png",
-  "symbol": "TAI"
+  "symbol": "TAI",
+  "decimals": 6,
+  "image": "https://byton-io.github.io/website/logo.png"
 }
-
-{"name":"TAI Token","description":"TAI description","symbol":"TAI","image":"https://byton-io.github.io/website/logo.png"}
